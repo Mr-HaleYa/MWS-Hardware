@@ -8,3 +8,11 @@ Planned additions
 - graphs 24/1week/1month with slider for changing the amount of data viewed on a graph
 - alerts that users can set for email or text message 
 - volume total for time selected (for example 24 hr would be all data points of volume added togeter to get total volume of that day)
+
+# PCB
+
+### V1.0
+
+Dark View             |  White PCB
+:-------------------------:|:-------------------------:
+![](PCB/V1.0-B.png)  |  ![](PCB/V1.0-W.png)
