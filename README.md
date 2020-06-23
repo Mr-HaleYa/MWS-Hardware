@@ -13,6 +13,6 @@ Planned additions
 
 ### V1.0
 
-Dark View             |  White PCB
+Front             |  Back
 :-------------------------:|:-------------------------:
-![](PCB/V1.0-B.png)  |  ![](PCB/V1.0-W.png)
+![](PCB/V1.0-F.png)  |  ![](PCB/V1.0-B.png)
