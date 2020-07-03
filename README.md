@@ -1,6 +1,6 @@
 # My Water Site Misc
 
-literally is just for all the bugs or issues we have as well as some 3d print parts
+3D files [Notes](3D_models/README.md)
 
 Planned additions
 - live data in graphs so new data is shown as it comes into the database (update interval of 1 min)
