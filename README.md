@@ -14,5 +14,5 @@ Planned additions
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-![](PCB/V1.0-F.png)  |  ![](PCB/V1.0-B.png)
+![](PCB/front.png)  |  ![](PCB/back.png)
 ![](PCB/traces.png)  |  ![](PCB/schematic.png)
