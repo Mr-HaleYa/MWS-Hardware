@@ -14,10 +14,10 @@ Planned additions
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-![](PCB/front.png)  |  ![](PCB/back.png)
+![](PCB/V1.1/front.png)  |  ![](PCB/V1.1/back.png)
 
 ### V1.0
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-![](PCB/old/V1.0/front.png)  |  ![](PCB/old/V1.0/back.png)
+![](PCB/V1.0/front.png)  |  ![](PCB/old/V1.0/back.png)
