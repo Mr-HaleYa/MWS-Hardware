@@ -10,9 +10,16 @@ Planned additions
 
 # PCB
 
-### V1.0
+### V1.1
 
 Front             |  Back
 :-------------------------:|:-------------------------:
 ![](PCB/front.png)  |  ![](PCB/back.png)
 ![](PCB/traces.png)  |  ![](PCB/schematic.png)
+
+### V1.0
+
+Front             |  Back
+:-------------------------:|:-------------------------:
+![](PCB/old/V1.0/front.png)  |  ![](PCB/old/V1.0/back.png)
+![](PCB/old/V1.0/traces.png)  |  ![](PCB/old/V1.0/schematic.png)
