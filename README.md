@@ -20,4 +20,4 @@ Front             |  Back
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-![](PCB/V1.0/front.png)  |  ![](PCB/old/V1.0/back.png)
+![](PCB/V1.0/front.png)  |  ![](PCB/V1.0/back.png)
