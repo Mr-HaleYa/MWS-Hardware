@@ -2,7 +2,7 @@
 
 3D files [Notes](3D_models/README.md)
 
-Install [Notes](#Install-Notes)
+[Notes](#Notes)
 
 Planned additions
 - live data in graphs so new data is shown as it comes into the database (update interval of 1 min)
@@ -25,8 +25,13 @@ Front             |  Back
 ![](PCB/V1.0/front.png)  |  ![](PCB/V1.0/back.png)
 
 
-### Install Notes
+### Notes
 
 - Currently, the sim being used is T-Mobile only so >2 bars of service is wanted when surveying an area.
 
 - The sensor __Must__ be installed at least 2 feet above the max water height to ensure proper readings. the range of the current sensor is 30cm to 500cm (~1FT - 16FT)
+
+- #### MPPT
+  - Red - charging
+  - Green - full
+  - Flashing - Battery disconnected / error
