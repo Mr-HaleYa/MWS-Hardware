@@ -12,6 +12,12 @@ Planned additions
 
 # PCB
 
+### V1.2
+
+Front             |  Back
+:-------------------------:|:-------------------------:
+![](PCB/V1.2/front.png)  |  ![](PCB/V1.2/back.png)
+
 ### V1.1
 
 Front             |  Back
@@ -27,7 +33,7 @@ Front             |  Back
 
 ### Notes
 
-- Currently, the sim being used is T-Mobile only so >2 bars of service is wanted when surveying an area.
+- Hologram SIM most commonly uses AT&T CATM1 sp >2 bars of service is wanted when surveying an area.
 
 - The sensor __Must__ be installed at least 2 feet above the max water height to ensure proper readings. the range of the current sensor is 30cm to 500cm (~1FT - 16FT)
 
