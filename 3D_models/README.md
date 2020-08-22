@@ -45,6 +45,6 @@ ___
 
 ### Solar_Mount_Bracket_2.stl
 
-Autumn solar panel mount bracket. Made to be mounted to a 2-inch Pole a 2 3/8 inch U bolt
+Bottom solar panel mount bracket. Made to be mounted to a 2-inch Pole a 2 3/8 inch U bolt
 - 50% infill / 3D honeycomb / 55° support
 
