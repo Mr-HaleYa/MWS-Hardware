@@ -13,7 +13,7 @@ Planned additions
 
 Front             |  Back
 :-------------------------:|:-------------------------:
-![](PCB/V12.0/front.png)  |  ![](PCB/V2.0/back.png)
+![](PCB/V2.0/front.png)  |  ![](PCB/V2.0/back.png)
 
 ### V1.2
 
