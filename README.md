@@ -36,7 +36,7 @@ Front             |  Back
 
 ### Notes
 
-- Hologram SIM most commonly uses AT&T CATM1 sp >2 bars of service is wanted when surveying an area.
+- Hologram SIM most commonly uses AT&T or TMOBILE CATM1 sp >2 bars of service is wanted when surveying an area.
 
 #### Sensors
 
