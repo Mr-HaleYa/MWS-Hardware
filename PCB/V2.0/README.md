@@ -1,5 +1,3 @@
-:--------------:
-![](front.png)  |
-![](back.png) |
-![](traces.png) |
-![](schematic.png) |
+![](front.png)  | ![](back.png)
+:---:|:---:
+![](traces.png) | ![](schematic.png) 
