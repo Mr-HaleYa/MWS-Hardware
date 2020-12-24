@@ -11,11 +11,9 @@ Planned additions
 
 ### V2.0
 
-Front |
-:---:
-![](PCB/V2.0/front.png) |
-Back |
-![](PCB/V2.0/back.png) |
+Front             |  Back
+:-------------------------:|:-------------------------:
+![](PCB/V12.0/front.png)  |  ![](PCB/V2.0/back.png)
 
 ### V1.2
 
