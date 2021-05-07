@@ -9,6 +9,18 @@ Planned additions
 
 # PCB
 
+### [V3.2](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB#v32)
+
+Front             |  Back
+:-------------------------:|:-------------------------:
+![](PCB/V3.2/front.png)  |  ![](PCB/V3.2/back.png)
+
+### [V3.1](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB#v31)
+
+Front             |  Back
+:-------------------------:|:-------------------------:
+![](PCB/V3.1/front.png)  |  ![](PCB/V3.1/back.png)
+
 ### [V3.0](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB#v30)
 
 Front             |  Back
