@@ -9,25 +9,25 @@ Planned additions
 
 # PCB
 
-### V2.0
+### [V2.0](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB#v20)
 
 Front             |  Back
 :-------------------------:|:-------------------------:
 ![](PCB/V2.0/front.png)  |  ![](PCB/V2.0/back.png)
 
-### V1.2
+### [V1.2](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB#v12)
 
 Front             |  Back
 :-------------------------:|:-------------------------:
 ![](PCB/V1.2/front.png)  |  ![](PCB/V1.2/back.png)
 
-### V1.1
+### [V1.1](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB#v11)
 
 Front             |  Back
 :-------------------------:|:-------------------------:
 ![](PCB/V1.1/front.png)  |  ![](PCB/V1.1/back.png)
 
-### V1.0
+### [V1.0](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB#v10)
 
 Front             |  Back
 :-------------------------:|:-------------------------:
