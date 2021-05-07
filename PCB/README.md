@@ -64,3 +64,23 @@ Fixed a lot of small problems with the new format. Added 3 pushbuttons for navig
 - Low-Side on/off switch for the camera using small MOSFET
 - 12V MPPT solar charger for charging external 12V pack
 
+## [V3.1](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB/V3.1)
+Moved the buttons and added 2 more for a total of 5 push buttons.
+
+#### Added
+- 2 more push buttons
+
+## [V3.2](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB/V3.2)
+Aimed to fix the bugs that were killing boards that used external DC. Fixed layout of DC on/off to cut power to the voltage divider used to measure the external battery voltage. Added filter caps to DC_IN, 5V, and 3.3V so they should all be smooth voltages (470uF 35V electrolytic). Changed the camera power to high side switching instead of low side switching because it was causing problems. 
+
+#### Added
+- 10K pull-ups to SDA and SCL
+- filter caps to DC_IN, 5V, and 3.3V (470uF 35V electrolytic)
+- dual MOSFET for the high side switch (N+P MOSFET)
+- solder jumper (j6) to make the camera always on
+
+#### Fixed
+- Camera power to high side switching instead of low side switching
+- layout of DC on/off to cut power to the voltage divider used to measure external battery voltage
+- camera power to high side switching
+- larger solder jumper for setting screen power and GND
