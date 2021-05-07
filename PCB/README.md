@@ -1,10 +1,10 @@
 
 # Changelog
 
-## V1.0
+## [V1.0](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB/V1.0)
 The first version with 4 short circuits and the wrong ping was assigned to the Ultrasonic sensor, and a lot of the pins were backward... 
 
-## V1.1
+## [V1.1](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB/V1.1)
 Improved the routes, thickened the charging traces, added some more Silk Screen Decals, and fixed polarity issues.
 
 ##### Added
@@ -18,7 +18,7 @@ Improved the routes, thickened the charging traces, added some more Silk Screen 
 - corrected Sensor pin
 - polarity of pins
 
-## V1.2
+## [V1.2](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB/V1.2)
 Changed the pins that power the board to use the pins on the back of the TTGO so we have all battery protections that are included. Altered the MPPT heat cut out to have a second small PCB built inside of it with small bridges so it can be removed and used as the temp sensor for the Ultrasonic Sensor.
 
 ##### Added 
@@ -39,7 +39,7 @@ Changed the pins that power the board to use the pins on the back of the TTGO so
 - grounding of MPPT
 - battery pack orientation 
 
-## V2.0
+## [V2.0](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB/V2.0)
 A new format for a new box. Almost all the hardware is the same except for the addition of an MCP23017 multiplexer that adds 16 more GPIO pins and uses I2C, It is mainly used for a set of 2 dip switches that set station settings and info. Also changed out the DHT11 for an AM2320 because the freezing temperatures were breaking the sensor.
 
 #### Added
@@ -49,7 +49,7 @@ A new format for a new box. Almost all the hardware is the same except for the a
 - am2320 temp / humidity sensor
 - 120VAC -> 5VDC for mains power
 
-## V3.0
+## [V3.0](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB/V3.0)
 Fixed a lot of small problems with the new format. Added 3 pushbuttons for navigation a menu on the screen for config and control of the station. Added another MCP23017 for even more GPIO pins for the pushbuttons. Also added a ton of little improvements.
 
 #### Added
