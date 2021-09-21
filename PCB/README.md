@@ -84,3 +84,27 @@ Aimed to fix the bugs that were killing boards that used external DC. Fixed layo
 - layout of DC on/off to cut power to the voltage divider used to measure external battery voltage
 - camera power to high side switching
 - larger solder jumper for setting screen power and GND
+
+## [V4.0](https://github.com/Mr-HaleYa/MyWater_Misc/tree/master/PCB/V4.0)
+Aimed at resolving the problem of boards getting stuck in a bricked state when being charged by a solar panel from a dead state. The monitor uses a duel MOSFET to invert the signal of the OBLED pin, this then charges an RC circuit when the OBLED is on. after a threshold voltage is met a voltage monitor switches its output to HIGH causing the RST pin to be pulled LOW and the entire device to reboot. In addition, another circuit was added to measure 4-20ma sensors. The circuit uses an ASD1115 chip to measure up to 4 analog sensors at a time and transmits the data using I2C.
+
+#### Added
+- Added ADS1115 to measure 4 Analog inputs for 4-20ma sensors
+- Created a bricked state detection circuit, will reboot ESP if OBLED is on for more than 30s
+- Added QR code that links to Git Repo
+
+#### Fixed
+- Fixed silk screen text of dips positions
+- TSR overlaps 120->5V transformer due to only one being usable at a time
+- All 1206 SMD pads have been reduced in size to true 1206 size
+- Moved CHTA31 to be less in the way of dips
+
+##### Changes
+- C1 and C2 replaced with smaller 10V caps
+- Changed MCP23017 from TH to SMD
+- Replaced the secondary MCP with 2 MCP23008 SMD chips
+- Changed 5 push button group to a single package 5 button joystick
+- Changed terminal block connectors to vertical sockets
+- Removed 3-pin dip state table
+- Reduced amount of silkscreen text
+- Optimized and cleaned up wire runs
