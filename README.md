@@ -1,4 +1,4 @@
-# My Water Site Misc
+# My Water Site - Hardware
 
 [3D Files](3D_models/README.md)
 
